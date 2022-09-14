@@ -20,7 +20,7 @@ For now only documentation is provided by comments in code. PDF Document will be
 
 **Note: This plugin is not supported by Epic Games.**
 
-If you experience some buggy behaviour or have some interesting ideas about improving the software, please [file an issue](https://github.com/MFurmanczyk/AttributesPlugin/issues).
+If you need help, experience some buggy behaviour or have some interesting ideas about improving the software, please [file an issue](https://github.com/MFurmanczyk/AttributesPlugin/issues).
 
 ## License
 
