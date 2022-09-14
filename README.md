@@ -9,7 +9,7 @@ The goal was to make customizable Attributes system that provides all necessary 
 
 ## Supported Platforms
 
-Plugin was build against version **4.22**. It was tested on versions 4.22, 4.27 and 5.0. 
+Plugin was built against version **4.22**. It was tested on versions 4.22, 4.27 and 5.0. 
 It works on all platforms (probably).
 
 ## Documentation
