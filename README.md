@@ -24,7 +24,7 @@ Please [file an issue](https://github.com/MFurmanczyk/AttributesPlugin/issues).
 
 ## License
 
-Plugin is licensed under the [MIT](LICENSE) License.
+Plugin is licensed under the [MIT](LICENSE.md) License.
 
 ## References
 
