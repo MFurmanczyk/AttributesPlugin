@@ -1,7 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.1b",
+	"Version": 2,
+	"VersionName": "1.0",
 	"FriendlyName": "AttributesPlugin",
 	"Description": "Event based AttributesComponent",
 	"Category": "Other",
@@ -10,9 +11,9 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "4.27.0",
+	"EngineVersion": "4.22.0",
 	"CanContainContent": true,
-	"IsBetaVersion": true,
+	"IsBetaVersion": false,
 	"Installed": true,
 	"Modules": [
 		{
